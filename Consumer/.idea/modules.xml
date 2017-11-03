@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Consumer.iml" filepath="$PROJECT_DIR$/Consumer.iml" />
+      <module fileurl="file://E:\github\spring-boot-dubbo\consumer\Consumer.iml" filepath="E:\github\spring-boot-dubbo\consumer\Consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumer.iml" filepath="$PROJECT_DIR$/consumer.iml" />
     </modules>
   </component>
 </project>
